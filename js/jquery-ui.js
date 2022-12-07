@@ -1,4 +1,4 @@
-/*! jQuery UI - v1.13.1 - 2022-02-16
+/*! jQuery UI - v1.13.2 - 2022-12-07
 * http://jqueryui.com
 * Includes: widget.js, keycode.js, unique-id.js, widgets/accordion.js
 * Copyright jQuery Foundation and other contributors; Licensed MIT */
@@ -20,11 +20,11 @@
 
 $.ui = $.ui || {};
 
-var version = $.ui.version = "1.13.1";
+var version = $.ui.version = "1.13.2";
 
 
 /*!
- * jQuery UI Widget 1.13.1
+ * jQuery UI Widget 1.13.2
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
@@ -766,7 +766,7 @@ var widget = $.widget;
 
 
 /*!
- * jQuery UI Keycode 1.13.1
+ * jQuery UI Keycode 1.13.2
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
@@ -801,7 +801,7 @@ var keycode = $.ui.keyCode = {
 
 
 /*!
- * jQuery UI Unique ID 1.13.1
+ * jQuery UI Unique ID 1.13.2
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
@@ -839,7 +839,7 @@ var uniqueId = $.fn.extend( {
 
 
 /*!
- * jQuery UI Accordion 1.13.1
+ * jQuery UI Accordion 1.13.2
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
@@ -860,7 +860,7 @@ var uniqueId = $.fn.extend( {
 
 
 var widgetsAccordion = $.widget( "ui.accordion", {
-	version: "1.13.1",
+	version: "1.13.2",
 	options: {
 		active: 0,
 		animate: {},
